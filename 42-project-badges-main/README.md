@@ -1,3 +1,9 @@
+<!-- Aclaración de autoría -->
+> ⚠️ **Aclaración:** Este proyecto fue desarrollado por **Cadets for Cadets**.  
+> Las imágenes de badges y cover pages fueron producidas por [lrcouto](https://github.com/lrcouto) como contrato freelance para **42 São Paulo**.  
+> Los derechos de uso y distribución de estos badges pertenecen a 42 São Paulo. Su inclusión en este repositorio es únicamente para fines educativos y de referencia.
+
+
 <p align="center">
   <img src="badges/volunteerm.png" alt="ready to help"/>
 </p>
